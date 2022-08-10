@@ -39,7 +39,7 @@ global.urlnya = "https://PilarV2.github.io"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 896 2555 6161'
+global.phn = '+62 882 1251 4602'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
