@@ -36,9 +36,9 @@ module.exports = {
         global.colong1 = 'Ciss '
         global.colong2 = 'By Pilar'
         global.kontak2 = [
-        ['6289625556161', 'PilarBilek', 'Raja Satir Bilek', 'pilarbilek302@gmail.com', true],
-        ['62896255561612', await this.getName('62896255561612@s.whatsapp.net'), 'Bilek', 'sa0066588@gmail.com', true],
-        ['6289625556161', 'BOTKANJUD', 'Bot WhatsApp', 'Nothing!', true],
+        ['6288212514602', 'PilarBilek', 'Raja Satir Bilek', 'pilarbilek302@gmail.com', true],
+        ['6288212514602', await this.getName('6288212514602@s.whatsapp.net'), 'Bilek', 'sa0066588@gmail.com', true],
+        ['628818172681', 'BOTKANJUD', 'Bot WhatsApp', 'Nothing!', true],
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
